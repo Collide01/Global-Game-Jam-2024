@@ -1,6 +1,6 @@
 # Global-Game-Jam-2024
 
-# Team members:
+## Team members:
 
 Luke T - Designer
 
