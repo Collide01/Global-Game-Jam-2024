@@ -3,7 +3,11 @@
 # Team members:
 
 Luke T - Designer
+
 Amber Arnold - Programmer
-Ryland Kealey - Artist
+
 Collin Strauch - Programmer
+
 Dylan Hamilton - Artist
+
+Ryland Kealey - Artist
