@@ -2,7 +2,7 @@
 
 ## Team members:
 
-Luke T - Designer
+Luc Thomajan - Designer
 
 Amber Arnold - Programmer
 
